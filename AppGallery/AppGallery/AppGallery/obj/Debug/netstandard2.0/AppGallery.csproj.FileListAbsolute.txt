@@ -1,0 +1,13 @@
+C:\apps\AppGallery\AppGallery\AppGallery\bin\Debug\netstandard2.0\AppGallery.deps.json
+C:\apps\AppGallery\AppGallery\AppGallery\bin\Debug\netstandard2.0\AppGallery.dll
+C:\apps\AppGallery\AppGallery\AppGallery\bin\Debug\netstandard2.0\ref\AppGallery.dll
+C:\apps\AppGallery\AppGallery\AppGallery\bin\Debug\netstandard2.0\AppGallery.pdb
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.AssemblyInfoInputs.cache
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.AssemblyInfo.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.csproj.CoreCompileInputs.cache
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamlC.stamp
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.dll
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\ref\AppGallery.dll
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.pdb
