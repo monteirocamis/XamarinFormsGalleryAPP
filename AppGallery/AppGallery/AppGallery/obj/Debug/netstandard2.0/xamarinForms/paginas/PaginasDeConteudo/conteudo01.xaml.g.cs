@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("AppGallery.MainPage.xaml", "MainPage.xaml", typeof(global::AppGallery.MainPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("AppGallery.xamarinForms.paginas.paginasDeConteudo.conteudo01.xaml", "xamarinForms/paginas/paginasDeConteudo/conteudo01.xaml", typeof(global::AppGallery.xamarinForms.paginas.paginasDeConteudo.conteudo01))]
 
-namespace AppGallery {
+namespace AppGallery.xamarinForms.paginas.paginasDeConteudo {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("MainPage.xaml")]
-    public partial class MainPage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("xamarinForms\\paginas\\paginasDeConteudo\\conteudo01.xaml")]
+    public partial class conteudo01 : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(conteudo01));
         }
     }
 }
