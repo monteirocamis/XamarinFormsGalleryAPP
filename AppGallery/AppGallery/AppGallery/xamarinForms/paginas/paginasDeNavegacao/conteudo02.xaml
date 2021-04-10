@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             NavigationPage.HasBackButton="False" 
+             
+             Title="conteudo 2"
+             x:Class="AppGallery.xamarinForms.paginas.paginasDeNavegacao.conteudo02">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="conteudo 2"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+
+            <Button Text="PopAsync - Voltar" Clicked="VoltarParaPaginaAnterior" />
+            <Button Text="PushAsyn - pagina 03" Clicked="AbrirPagina03" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

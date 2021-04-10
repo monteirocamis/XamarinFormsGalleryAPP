@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("AppGallery.xamarinForms.paginas.paginaDeConteudo.conteudo01.xaml", "xamarinForms/paginas/paginaDeConteudo/conteudo01.xaml", typeof(global::AppGallery.xamarinForms.paginas.paginaDeConteudo.conteudo01))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("AppGallery.xamarinForms.paginas.paginasDeNavegacao.conteudo02.xaml", "xamarinForms/paginas/paginasDeNavegacao/conteudo02.xaml", typeof(global::AppGallery.xamarinForms.paginas.paginasDeNavegacao.conteudo02))]
 
-namespace AppGallery.xamarinForms.paginas.paginaDeConteudo {
+namespace AppGallery.xamarinForms.paginas.paginasDeNavegacao {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("xamarinForms\\paginas\\paginaDeConteudo\\conteudo01.xaml")]
-    public partial class conteudo01 : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("xamarinForms\\paginas\\paginasDeNavegacao\\conteudo02.xaml")]
+    public partial class conteudo02 : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(conteudo01));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(conteudo02));
         }
     }
 }

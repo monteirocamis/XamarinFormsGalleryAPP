@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace AppGallery.xamarinForms.paginas.paginaDeConteudo
+namespace AppGallery.xamarinForms.paginas.paginasDeNavegacao
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class conteudo01 : ContentPage
@@ -15,6 +15,11 @@ namespace AppGallery.xamarinForms.paginas.paginaDeConteudo
         public conteudo01()
         {
             InitializeComponent();
+        }
+
+        private void AbrirPagina02(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new conteudo02());
         }
     }
 }
