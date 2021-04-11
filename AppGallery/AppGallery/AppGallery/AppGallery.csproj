@@ -28,5 +28,8 @@
     <EmbeddedResource Update="xamarinForms\paginas\paginasDeNavegacao\conteudo03.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Update="xamarinForms\paginas\paginasDeNavegacao\PaginaInserida.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
 </Project>

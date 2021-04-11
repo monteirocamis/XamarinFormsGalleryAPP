@@ -15,3 +15,4 @@ C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\P
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\Paginas\PaginasDeNavegacao\Conteudo01.xaml.g.cs
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\Paginas\PaginasDeNavegacao\Conteudo02.xaml.g.cs
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\Paginas\PaginasDeNavegacao\Conteudo03.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\paginas\paginasDeNavegacao\PaginaInserida.xaml.g.cs
