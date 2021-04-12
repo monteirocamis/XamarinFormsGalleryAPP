@@ -24,14 +24,21 @@ namespace AppGallery
             pagina.Children.Add(new xamarinForms.paginas.paginaCarousel.conteudo03carousel());
 
             pagina.CurrentPage = pagina.Children[1]; // carousel com iniciona pagina do meio - conteudo2
+
+
+        var pagina = new tabbedPage(); 
+            pagina.Children.Add(new xamarinForms.paginas.paginaCarousel.conteudo01carousel());
+            pagina.Children.Add(new xamarinForms.paginas.paginaCarousel.conteudo02carousel());
+            pagina.Children.Add(new xamarinForms.paginas.paginaCarousel.conteudo03carousel());
 */
             // MainPage = pagina;
 
-            MainPage = new xamarinForms.paginas.paginaCarousel.carousel();
+            // MainPage = new xamarinForms.paginas.paginaCarousel.carousel();
 
-          //  MainPage = new xamarinForms.paginas.modal.conteudo01modal();
+            //  MainPage = new xamarinForms.paginas.modal.conteudo01modal();
 
-         //   MainPage = new xamarinForms.paginas.paginaDeAbas.Abas();
+
+            MainPage = new xamarinForms.paginas.paginaAbas.abas(); 
         }
 
         protected override void OnStart()
