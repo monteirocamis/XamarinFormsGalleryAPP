@@ -16,5 +16,10 @@ namespace AppGallery.xamarinForms.paginas.paginaMenuLateral
         {
             InitializeComponent();
         }
+
+        private void abrirMenu(object sender, EventArgs e)
+        {
+            ((MasterDetailPage)App.Current.MainPage).IsPresented = true;
+        }
     }
 }

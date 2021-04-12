@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:AppGallery.xamarinForms.paginas.paginaMenuLateral"
+             x:Class="AppGallery.xamarinForms.paginas.paginaMenuLateral.menuLateral">
+             
+    
+    <!--menu-->
+    <MasterDetailPage.Master>
+        <ContentPage Title="Menu">
+            <StackLayout>
+                <Button Text="pagina 1" Clicked="abrirPagina1" HorizontalOptions="Start" BackgroundColor="Transparent" />
+                <Button Text="pagina 2" Clicked="abrirPagina2" HorizontalOptions="Start" BackgroundColor="Transparent" />
+                <Button Text="pagina 3" Clicked="abrirPagina3" HorizontalOptions="Start" BackgroundColor="Transparent" />
+                
+            </StackLayout>
+        </ContentPage>
+    </MasterDetailPage.Master>
+    
+    <!--conteudo-->
+    <MasterDetailPage.Detail>
+        <NavigationPage>
+            <x:Arguments>
+                <local:conteudo1menu />
+            </x:Arguments> 
+        </NavigationPage>
+        
+        
+    </MasterDetailPage.Detail>
+    
+</MasterDetailPage>

@@ -61,6 +61,9 @@
     <EmbeddedResource Update="xamarinForms\paginas\paginaMenuLateral\conteudo3menu.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Update="xamarinForms\paginas\paginaMenuLateral\menuLateral.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="xamarinForms\paginas\paginasDeConteudo\conteudo01.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>

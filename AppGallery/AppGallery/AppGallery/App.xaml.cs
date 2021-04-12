@@ -30,15 +30,26 @@ namespace AppGallery
             pagina.Children.Add(new xamarinForms.paginas.paginaCarousel.conteudo01carousel());
             pagina.Children.Add(new xamarinForms.paginas.paginaCarousel.conteudo02carousel());
             pagina.Children.Add(new xamarinForms.paginas.paginaCarousel.conteudo03carousel());
+
+             var pagina = new MasterDetailPage();
+            // menu lateral
+            pagina.Master = ;
+            //conteudo
+            pagina.Detail = ;
+
 */
             // MainPage = pagina;
 
             // MainPage = new xamarinForms.paginas.paginaCarousel.carousel();
 
             //  MainPage = new xamarinForms.paginas.modal.conteudo01modal();
+            // MainPage = new xamarinForms.paginas.paginaAbas.abas(); 
+
+            MainPage = new xamarinForms.paginas.paginaMenuLateral.menuLateral(); 
 
 
-            MainPage = new xamarinForms.paginas.paginaAbas.abas(); 
+
+
         }
 
         protected override void OnStart()
