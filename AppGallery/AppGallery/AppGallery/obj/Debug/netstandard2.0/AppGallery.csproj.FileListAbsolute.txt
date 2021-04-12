@@ -16,3 +16,12 @@ C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\P
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\Paginas\PaginasDeNavegacao\Conteudo02.xaml.g.cs
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\Paginas\PaginasDeNavegacao\Conteudo03.xaml.g.cs
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\paginas\paginasDeNavegacao\PaginaInserida.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\paginas\modal\conteudo01modal.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\paginas\modal\paginaModal.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\paginas\paginaMenuLateral\conteudo1menu.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\paginas\paginaMenuLateral\conteudo2menu.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\paginas\paginaMenuLateral\conteudo3menu.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\paginas\paginaCarousel\carousel.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\paginas\paginaCarousel\conteudo01carousel.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\paginas\paginaCarousel\conteudo02carousel.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\paginas\paginaCarousel\conteudo03carousel.xaml.g.cs

@@ -11,11 +11,47 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="xamarinForms\paginas\NovaPasta1\**" />
+    <Compile Remove="xamarinForms\paginas\NovaPasta\**" />
+    <EmbeddedResource Remove="xamarinForms\paginas\NovaPasta1\**" />
+    <EmbeddedResource Remove="xamarinForms\paginas\NovaPasta\**" />
+    <None Remove="xamarinForms\paginas\NovaPasta1\**" />
+    <None Remove="xamarinForms\paginas\NovaPasta\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Update="xamarinForms\paginas\modal\conteudo01modal.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="xamarinForms\paginas\modal\paginaModal.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="xamarinForms\paginas\paginaCarousel\carousel.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="xamarinForms\paginas\paginaCarousel\conteudo01carousel.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="xamarinForms\paginas\paginaCarousel\conteudo02carousel.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="xamarinForms\paginas\paginaCarousel\conteudo03carousel.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="xamarinForms\paginas\paginaMenuLateral\conteudo1menu.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="xamarinForms\paginas\paginaMenuLateral\conteudo2menu.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="xamarinForms\paginas\paginaMenuLateral\conteudo3menu.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="xamarinForms\paginas\paginasDeConteudo\conteudo01.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
