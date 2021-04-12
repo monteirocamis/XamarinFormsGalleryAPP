@@ -12,10 +12,16 @@
 
   <ItemGroup>
     <Compile Remove="xamarinForms\paginas\NovaPasta1\**" />
+    <Compile Remove="xamarinForms\paginas\NovaPasta2\**" />
+    <Compile Remove="xamarinForms\paginas\NovaPasta3\**" />
     <Compile Remove="xamarinForms\paginas\NovaPasta\**" />
     <EmbeddedResource Remove="xamarinForms\paginas\NovaPasta1\**" />
+    <EmbeddedResource Remove="xamarinForms\paginas\NovaPasta2\**" />
+    <EmbeddedResource Remove="xamarinForms\paginas\NovaPasta3\**" />
     <EmbeddedResource Remove="xamarinForms\paginas\NovaPasta\**" />
     <None Remove="xamarinForms\paginas\NovaPasta1\**" />
+    <None Remove="xamarinForms\paginas\NovaPasta2\**" />
+    <None Remove="xamarinForms\paginas\NovaPasta3\**" />
     <None Remove="xamarinForms\paginas\NovaPasta\**" />
   </ItemGroup>
 
@@ -29,6 +35,9 @@
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="xamarinForms\paginas\modal\paginaModal.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="xamarinForms\paginas\paginaAbas\abas.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="xamarinForms\paginas\paginaCarousel\carousel.xaml">
