@@ -45,8 +45,8 @@ namespace AppGallery
             //  MainPage = new xamarinForms.paginas.modal.conteudo01modal();
             // MainPage = new xamarinForms.paginas.paginaAbas.abas(); 
 
-            MainPage = new xamarinForms.paginas.paginaMenuLateral.menuLateral(); 
-
+            // MainPage = new xamarinForms.paginas.paginaMenuLateral.menuLateral(); 
+            MainPage = new appBase.menu();
 
 
 
