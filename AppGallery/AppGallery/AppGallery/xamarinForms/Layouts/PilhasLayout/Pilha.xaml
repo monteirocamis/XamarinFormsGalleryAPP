@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppGallery.xamarinForms.Layouts.PilhasLayout.Pilha">
+    <ContentPage.Content>
+        <StackLayout Spacing="0">
+            <StackLayout Padding="10" Orientation="Vertical" BackgroundColor="LightPink">
+                 <Label Text="linha 1" BackgroundColor="AliceBlue"/>
+                <Label Text="linha 2" />
+            </StackLayout>
+            <StackLayout Padding="10"  Orientation="Horizontal" BackgroundColor="#707070" >
+                <Label Text="coluna 3" BackgroundColor="White" HorizontalOptions="CenterAndExpand" />
+                <Label Text="coluna 4" BackgroundColor="White" HorizontalOptions="CenterAndExpand" />
+            </StackLayout>
+            <StackLayout Padding="10"  Orientation="Horizontal" BackgroundColor="OrangeRed" >
+                <Label Text="coluna 3" BackgroundColor="White" HorizontalOptions="FillAndExpand" />
+                <Label Text="coluna 4" BackgroundColor="White" HorizontalOptions="End" />
+            </StackLayout>
+            
+            
+            <StackLayout Padding="10" VerticalOptions="FillAndExpand" Orientation="Horizontal"  >
+                <Label Text="linha 3" BackgroundColor="White" HorizontalOptions="FillAndExpand" />
+                <Label Text="linha 4" BackgroundColor="White" HorizontalOptions="End" />
+            </StackLayout>
+            <StackLayout Padding="10"  Orientation="Horizontal" BackgroundColor="LightBlue" >
+                <Label Text="coluna 3" BackgroundColor="White" HorizontalOptions="CenterAndExpand" />
+                <Label Text="coluna 4" BackgroundColor="White" HorizontalOptions="CenterAndExpand" />
+            </StackLayout>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -27,3 +27,8 @@ C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\p
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\paginas\paginaCarousel\conteudo03carousel.xaml.g.cs
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\paginas\paginaAbas\abas.xaml.g.cs
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\paginas\paginaMenuLateral\menuLateral.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\appBase\inicio.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\appBase\menu.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\Layouts\PilhasLayout\Pilha.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\Layouts\GradeLayout\Grade.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\Layouts\AbsoluteLayout\Absoluto.xaml.g.cs
