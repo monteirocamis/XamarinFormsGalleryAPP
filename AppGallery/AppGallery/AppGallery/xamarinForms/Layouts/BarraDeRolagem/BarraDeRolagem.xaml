@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppGallery.xamarinForms.Layouts.BarraDeRolagem.BarraDeRolagem">
+    <ContentPage.Content>
+        <ScrollView x:Name="BarraDeScroll">
+        <StackLayout Margin="20">
+            
+                <ScrollView HorizontalScrollBarVisibility="Never" Orientation="Horizontal"> 
+                <StackLayout Orientation="Horizontal" >
+                    <BoxView Color="Black" />
+                    <BoxView Color="MediumPurple" />
+                    <BoxView Color="Black" />
+                    <BoxView Color="LightGreen" />
+                    <BoxView Color="Black" />
+                    <BoxView Color="Black" />
+                    <BoxView Color="MediumPurple" />
+                    <BoxView Color="Black" />
+                    <BoxView Color="LightGreen" />
+                    <BoxView Color="Black" />
+                    <BoxView Color="Black" />
+                    <BoxView Color="MediumPurple" />
+                    <BoxView Color="Black" />
+                    <BoxView Color="LightGreen" />
+                    <BoxView Color="Black" />
+                    <BoxView Color="Black" />
+                    <BoxView Color="MediumPurple" />
+                    <BoxView Color="Black" />
+                    <BoxView Color="LightGreen" />
+                    <BoxView Color="Black" />
+                    <BoxView Color="Black" />
+                    <BoxView Color="MediumPurple" />
+                    <BoxView Color="Black" />
+                    <BoxView Color="LightGreen" />
+                    <BoxView Color="Black" />
+                </StackLayout>
+                </ScrollView>
+
+
+                <Button Text="clique to scroll" BackgroundColor="Black" TextColor="MediumPurple" Clicked="RolarPara" />
+                <Label Text="barra de rolagem lorems lorem loremssss ssssa barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa
+                   barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa
+                   barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa"
+               Padding="20"
+                   BackgroundColor="MediumPurple"
+                   TextColor="white" />
+            
+            <Label Text="barra de rolagem lorems lorem loremssss ssssa barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa
+                   barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa
+                   barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa"
+               Padding="20"
+                   BackgroundColor="GreenYellow"
+                   TextColor="white" />
+            
+            <Label Text="barra de rolagem lorems lorem loremssss ssssa barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa
+                   barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa
+                   barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa"
+               Padding="20"
+                   BackgroundColor="Red"
+                   TextColor="white" />
+            
+            <Label Text="barra de rolagem lorems lorem loremssss ssssa barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa
+                   barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa
+                   barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa"
+               Padding="20"
+                   BackgroundColor="PapayaWhip"
+                   TextColor="white" />
+
+            <Label Text="barra de rolagem lorems lorem loremssss ssssa barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa
+                   barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa
+                   barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa"
+               Padding="20"
+                   BackgroundColor="Black"
+                   TextColor="white" />
+            
+                <Label x:Name="LabelEscolhida" Text="barra de rolagem lorems lorem loremssss ssssa barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa
+                   barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa
+                   barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa"
+               Padding="20"
+                   BackgroundColor="Purple"
+                   TextColor="white" />
+            
+                <Label Text="barra de rolagem lorems lorem loremssss ssssa barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa
+                   barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa
+                   barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa"
+               Padding="20"
+                   BackgroundColor="Beige"
+                   TextColor="white" />
+
+                <Label Text="barra de rolagem lorems lorem loremssss ssssa barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa
+                   barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa
+                   barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa"
+               Padding="20"
+                   BackgroundColor="DeepPink"
+                   TextColor="white" />
+
+                <Label Text="barra de rolagem lorems lorem loremssss ssssa barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa
+                   barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa
+                   barra de rolagem lorems lorem loremssss ssssabarra de rolagem lorems lorem loremssss ssssa"
+               Padding="20"
+                   BackgroundColor="Blue"
+                   TextColor="white" />
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
