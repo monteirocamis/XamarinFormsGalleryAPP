@@ -3,8 +3,28 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppGallery.xamarinForms.Layouts.AbsoluteLayout.Absoluto">
     <ContentPage.Content>
-        <AbsoluteLayout>
-            
+        <AbsoluteLayout BackgroundColor="Purple" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+           
+            <!-- borda esquerda superior -->
+            <BoxView BackgroundColor="GreenYellow" AbsoluteLayout.LayoutBounds="0,0,100, 30" AbsoluteLayout.LayoutFlags="PositionProportional" />
+            <BoxView BackgroundColor="GreenYellow" AbsoluteLayout.LayoutBounds="0,0,30, 100" AbsoluteLayout.LayoutFlags="PositionProportional" />
+
+            <!-- borda direita superior -->
+            <BoxView BackgroundColor="GreenYellow" AbsoluteLayout.LayoutBounds="1,0,100, 30" AbsoluteLayout.LayoutFlags="PositionProportional" />
+            <BoxView BackgroundColor="GreenYellow" AbsoluteLayout.LayoutBounds="1,0,30, 100" AbsoluteLayout.LayoutFlags="PositionProportional" />
+
+            <!-- borda esquerda inferior -->
+            <BoxView BackgroundColor="GreenYellow" AbsoluteLayout.LayoutBounds="0,1,100, 30" AbsoluteLayout.LayoutFlags="PositionProportional" />
+            <BoxView BackgroundColor="GreenYellow" AbsoluteLayout.LayoutBounds="0,1,30, 100" AbsoluteLayout.LayoutFlags="PositionProportional" />
+
+            <!-- borda direita inferior -->
+            <BoxView BackgroundColor="GreenYellow" AbsoluteLayout.LayoutBounds=" 1,1,100, 30" AbsoluteLayout.LayoutFlags="PositionProportional" />
+            <BoxView BackgroundColor="GreenYellow" AbsoluteLayout.LayoutBounds="1,1,30, 100" AbsoluteLayout.LayoutFlags="PositionProportional" />
+
+            <BoxView BackgroundColor="GreenYellow" AbsoluteLayout.LayoutBounds="5 , 5, 5,5" AbsoluteLayout.LayoutFlags="PositionProportional" />
+            <Label Text="grid layout" TextColor="White" AbsoluteLayout.LayoutBounds=".5,.5,.5,.5" AbsoluteLayout.LayoutFlags="All" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
+
+
         </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -6,6 +6,7 @@
    
     <MasterDetailPage.Master>
         <ContentPage Title="menu" >
+            <ScrollView > 
             <StackLayout>
 
                 <Label Text="paginas" />
@@ -20,7 +21,13 @@
                 <Button Text="stackLayout" Clicked="AbrirStackLayout" />
                  <Button Text="grid " Clicked="AbrirGrid" />
                 <Button Text="absoluteLayout" Clicked="AbrirAbsoluteLayout" />
-            </StackLayout>
+                <Button Text="RelativoLayout" Clicked="AbrirRelativoLayout" />
+                <Button Text="FlexivoLayout" Clicked="AbrirFlexivo" />
+                <Button Text="BarraDeRolagem" Clicked="AbrirBarraRolagem" />
+                    <Button Text="Frame" Clicked="AbrirFrame" />
+
+                </StackLayout>
+            </ScrollView>
         </ContentPage>
     </MasterDetailPage.Master>
 

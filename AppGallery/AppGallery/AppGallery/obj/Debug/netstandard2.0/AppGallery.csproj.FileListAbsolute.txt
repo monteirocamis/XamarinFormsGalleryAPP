@@ -10,7 +10,6 @@ C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamlC.stamp
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.dll
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\ref\AppGallery.dll
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.pdb
-C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.csprojAssemblyReference.cache
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\Paginas\PaginasDeConteudo\conteudo01.xaml.g.cs
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\Paginas\PaginasDeNavegacao\Conteudo01.xaml.g.cs
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\XamarinForms\Paginas\PaginasDeNavegacao\Conteudo02.xaml.g.cs
@@ -32,3 +31,8 @@ C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\appBase\menu.x
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\Layouts\PilhasLayout\Pilha.xaml.g.cs
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\Layouts\GradeLayout\Grade.xaml.g.cs
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\Layouts\AbsoluteLayout\Absoluto.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\Layouts\RelativoLayout\Relativo.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\Layouts\FlexivoLayout\Flexivo.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.csprojAssemblyReference.cache
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\Layouts\BarraDeRolagem\BarraDeRolagem.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\Layouts\QuadradoLayout\Quadrado.xaml.g.cs

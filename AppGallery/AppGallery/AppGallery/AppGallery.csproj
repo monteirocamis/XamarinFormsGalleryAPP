@@ -40,10 +40,22 @@
     <EmbeddedResource Update="xamarinForms\Layouts\AbsoluteLayout\Absoluto.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Update="xamarinForms\Layouts\BarraDeRolagem\BarraDeRolagem.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="xamarinForms\Layouts\FlexivoLayout\Flexivo.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="xamarinForms\Layouts\GradeLayout\Grade.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="xamarinForms\Layouts\PilhasLayout\Pilha.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="xamarinForms\Layouts\QuadradoLayout\Quadrado.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="xamarinForms\Layouts\RelativoLayout\Relativo.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="xamarinForms\paginas\modal\conteudo01modal.xaml">

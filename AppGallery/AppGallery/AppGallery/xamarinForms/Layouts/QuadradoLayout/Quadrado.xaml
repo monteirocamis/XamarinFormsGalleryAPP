@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppGallery.xamarinForms.Layouts.QuadradoLayout.Quadrado">
+    <ContentPage.Content>
+        <StackLayout Padding="20" BackgroundColor="MediumPurple">
+            
+            <!-- imagem / avatar -->
+            <Frame HorizontalOptions="Center" CornerRadius="100" Padding="0" IsClippedToBounds="True">
+                <BoxView Color="Black" WidthRequest="150" HeightRequest="150" />
+            </Frame>
+            
+            <Frame Padding="0">
+                <StackLayout>
+                    <Label Text="titulo" TextColor="Black" FontSize="20" HorizontalOptions="Center" Margin="10"/>
+                    <BoxView HeightRequest="1" Color="Gray" HorizontalOptions="FillAndExpand" />
+                    <Label Text="paragrafo paragrafo paragrafo paragrafo "  HorizontalOptions="Center" Margin="20"/>
+                </StackLayout>
+            </Frame>
+            
+            <Frame HasShadow="True" CornerRadius="20" BorderColor="LightGreen">
+                <Label Text="ola" />
+            </Frame>
+ 
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

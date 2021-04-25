@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppGallery.xamarinForms.Layouts.FlexivoLayout.Flexivo">
+    <ContentPage.Content>
+       <!--  <FlexLayout Direction="Column" AlignItems="Stretch">
+            <Label Text="linha 1" BackgroundColor="MediumPurple" TextColor="LightGreen" Padding="10" />
+             <Label Text="linha 2" />
+            <Label Text="linha 3" />
+        </FlexLayout>-->
+        <FlexLayout Direction="Column">
+            <FlexLayout BackgroundColor="#6E3AB2" FlexLayout.Grow="1" Direction="Column" AlignItems="Stretch" JustifyContent="Start">
+                <Label Text="linha 1" FlexLayout.Order="1" FlexLayout.AlignSelf="Center" BackgroundColor="MediumPurple" TextColor="LightGreen" Padding="10" />
+                <Label Text="linha 2" FlexLayout.Order="0" FlexLayout.Basis="30%" BackgroundColor="gray" TextColor="Purple" Padding="10" />
+                <Label Text="linha 3" FlexLayout.Order="2" BackgroundColor="black" TextColor="White" Padding="10" />
+             </FlexLayout>
+            <FlexLayout FlexLayout.Grow="1" Wrap="NoWrap" BackgroundColor="#5DF257"  Direction="Row"  >
+
+                <Label Text="coluna 1" FlexLayout.Shrink="0" BackgroundColor="pink" TextColor="Bisque" Padding="10" />
+                <Label Text="coluna 2" BackgroundColor="pink" TextColor="Bisque" Padding="10" />
+                <Label Text="coluna 3" BackgroundColor="pink" TextColor="Bisque" Padding="10" />
+                <Label Text="coluna 4" BackgroundColor="pink" TextColor="Bisque" Padding="10" />
+                <Label Text="coluna 5" BackgroundColor="pink" TextColor="Bisque" Padding="10" />
+                <Label Text="coluna 6" BackgroundColor="pink" TextColor="Bisque" Padding="10" />
+            </FlexLayout>
+
+            <FlexLayout FlexLayout.Grow="1" Wrap="NoWrap" Direction="Row" AlignContent="End" AlignItems="Start" JustifyContent="Center" BackgroundColor="Turquoise" >
+                <BoxView BackgroundColor="Black" Margin="1" />
+                <BoxView BackgroundColor="Black" Margin="1" />
+                <BoxView BackgroundColor="Black"  Margin="1"/>
+                <BoxView BackgroundColor="Black"  Margin="1"/>
+                <BoxView BackgroundColor="Black"  Margin="1"/>
+                <BoxView BackgroundColor="Black"  Margin="1"/>
+                <BoxView BackgroundColor="Black"  Margin="1"/>
+                <BoxView BackgroundColor="Black"  Margin="1"/>
+                <BoxView BackgroundColor="Black"  Margin="1"/>
+                <BoxView BackgroundColor="Black" Margin="1" />
+                <BoxView BackgroundColor="Black" Margin="1" />
+                <BoxView BackgroundColor="Black"  Margin="1"/>
+            </FlexLayout>
+    </FlexLayout>
+
+    </ContentPage.Content>
+</ContentPage>
