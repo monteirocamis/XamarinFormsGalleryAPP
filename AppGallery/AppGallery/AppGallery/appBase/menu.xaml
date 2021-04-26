@@ -24,8 +24,11 @@
                 <Button Text="RelativoLayout" Clicked="AbrirRelativoLayout" />
                 <Button Text="FlexivoLayout" Clicked="AbrirFlexivo" />
                 <Button Text="BarraDeRolagem" Clicked="AbrirBarraRolagem" />
-                    <Button Text="Frame" Clicked="AbrirFrame" />
-
+                <Button Text="Frame" Clicked="AbrirFrame" />
+                <Button Text="ContentView" Clicked="AbrirControle" />
+               <!-- <Button Text="CardDiretor" Clicked="AbrirCardDiretor" /> -->
+                
+                
                 </StackLayout>
             </ScrollView>
         </ContentPage>

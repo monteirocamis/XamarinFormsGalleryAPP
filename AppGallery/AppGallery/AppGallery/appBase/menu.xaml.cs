@@ -100,5 +100,20 @@ namespace AppGallery.appBase
             ((MasterDetailPage)App.Current.MainPage).Detail = new xamarinForms.Layouts.QuadradoLayout.Quadrado();
             ((MasterDetailPage)App.Current.MainPage).IsPresented = false;
         }
+
+        private void AbrirControle(object sender, EventArgs e)
+        {
+            ((MasterDetailPage)App.Current.MainPage).Detail = new xamarinForms.Layouts.ControleLayout.Controle();
+            ((MasterDetailPage)App.Current.MainPage).IsPresented = false;
+        }
+
+        
+      
+
+        private void AbrirCardDiretor(object sender, EventArgs e)
+        {
+          //  ((MasterDetailPage)App.Current.MainPage).Detail = new xamarinForms.Layouts.ControleLayout.CardDiretor();
+           ((MasterDetailPage)App.Current.MainPage).IsPresented = false;
+        }
     }
 }
