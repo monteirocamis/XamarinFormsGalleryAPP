@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controle="clr-namespace:AppGallery.xamarinForms.Layouts.ControleLayout"
+             x:Class="AppGallery.xamarinForms.Layouts.ControleLayout.Controle">
+    <ContentPage.Content>
+        <StackLayout>
+            <controle:CardHorizontal Titulo="titulo 01" Paragrafo="texto 01" Cor="gray"/>
+            <controle:CardHorizontal Titulo="titulo 01" Paragrafo="texto 02" Cor="gray" />
+            <controle:CardHorizontal Titulo="titulo 01" Paragrafo="texto 03" Cor="Purple"/>
+            
+          <!-- <controle:CardDiretor Nome="Camis Monteiro" Descricao="Desenvolvedora Front End" BoxViewColor="Blue" /> -->
+            <controle:CardDiretor/>
+        </StackLayout>
+      
+    </ContentPage.Content>
+</ContentPage>

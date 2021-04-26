@@ -36,3 +36,6 @@ C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\L
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\AppGallery.csprojAssemblyReference.cache
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\Layouts\BarraDeRolagem\BarraDeRolagem.xaml.g.cs
 C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\Layouts\QuadradoLayout\Quadrado.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\Layouts\ControleLayout\CardHorizontal.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\Layouts\ControleLayout\Controle.xaml.g.cs
+C:\apps\AppGallery\AppGallery\AppGallery\obj\Debug\netstandard2.0\xamarinForms\Layouts\ControleLayout\CardDiretor.xaml.g.cs
