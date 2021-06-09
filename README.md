@@ -1,8 +1,10 @@
 
 # XamarinFormsGalleryAPP
 
-app em desenvolvimento no curso da udemy do @spacedu https://github.com/Spacedu , para treino
-desenvolvimento de telas para treinar todas as funcionalidades em xamarin
+app em desenvolvimento no curso da udemy do @spacedu https://github.com/Spacedu ,
+um sumario de features em xamarin c#
+
+desenvolvimento de telas para treinar todas as funcionalidades em xamarin 
 
 ![print-appGallery](https://user-images.githubusercontent.com/26682838/115980407-e5759b00-a562-11eb-882c-28448931288a.png)
 
